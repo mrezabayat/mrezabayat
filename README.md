@@ -141,7 +141,7 @@ Linux · macOS · Android · iOS
   <a href="https://linkedin.com/in/mrbayat" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
-  <a href="https://www.youtube.com/c/mycodingdays" target="_blank">
+  <a href="https://www.youtube.com/@MyCodingDays" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" />
   </a>
   <a href="https://mycodingdays.com/feed.xml" target="_blank">
