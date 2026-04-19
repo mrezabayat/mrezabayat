@@ -126,11 +126,11 @@ Linux · macOS · Android · iOS
 
 ### 📰 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [From Brain to Equifax: 4 Cybersecurity Attacks That Changed Computing](https://mycodingdays.com/posts/from-brain-to-equifax-4-cybersecurity-attacks-that-changed-computing/)
 - [Projects Every Senior Software Engineer Should Try &lpar;Before They Retire or Become a Manager&rpar;](https://mycodingdays.com/posts/27-project-for-senior-software-engineers/)
 - [Decorator Design Pattern for Flexible and Dynamic Object Behavior in C++](https://mycodingdays.com/posts/decorator-design-pattern-in-cpp/)
 - [The Observer Design Pattern: A Weather Station Example in C++](https://mycodingdays.com/posts/observer-design-pattern-in-cpp/)
 - [Strategy Pattern in C++: A Flexible Approach to Dynamic Behaviors with Smart Pointers](https://mycodingdays.com/posts/strategy-design-pattern-in-cpp/)
-- [Object Oriented Modelling - Part 2: Decomposition and Generalization](https://mycodingdays.com/posts/object-oriented-modelling-part2/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
